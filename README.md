@@ -27,6 +27,7 @@ Here are some details about me:
 </div>
 
 <hr>
+
 ## ⚡️ Stats
 
 <br>
