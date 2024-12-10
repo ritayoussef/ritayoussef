@@ -8,3 +8,9 @@ Here are some details about me:
 - 🚀 I will start my first internship in **January 2025** as a Web Developer.
 - 📫 How to reach me:  
   - **Email**: youssef.rita14@gmail.com
+
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
