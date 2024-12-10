@@ -39,3 +39,8 @@ Here are some details about me:
 </div>
 
 <hr>
+
+
+## 📚 References
+
+[GitHub Profile](https://medium.com/@chijiokeokorji/from-meh-to-marvelous-the-ultimate-guide-to-crafting-a-killer-github-profile-8dd3f6c6d602)
