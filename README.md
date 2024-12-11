@@ -10,7 +10,10 @@
 
 Here are some details about me:
 
-- 🌐 I'm currently creating my own website.
+- 📝 I love integrating my aesthetics and creativity into computer science projects.
+- 🎮 I have been gamer since I was 6 years old.
+- 🎡 Fun fact: I still play Claw on my PC 🖥️
+- 🌐 I'm currently creating my own website and creating a game using JavaScript. 
 - 📚 I'm currently learning **React.js**.
 - 🚀 I will start my first internship in **January 2025** as a Web Developer.
 - 💬 Ask me about **JavaScript, HTML/CSS, C#, SQL, Kotlin, Python, and more [here](https://github.com/ritayoussef/ritayoussef/issues)**
