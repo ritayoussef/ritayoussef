@@ -17,6 +17,8 @@ Here are some details about me:
 - 📚 I'm currently learning **React.js**.
 - 🚀 I will start my first internship in **January 2025** as a Web Developer.
 - 💬 Ask me about **JavaScript, HTML/CSS, C#, SQL, Kotlin, Python, and more [here](https://github.com/ritayoussef/ritayoussef/issues)**
+- [View Live Portfolio](https://ritayoussef.github.io/)
+
 
 <br>
 
